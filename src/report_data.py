@@ -1,5 +1,3 @@
-import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 
 def reports_direct_and_fully_associative_mapping(title, mapping, rep_policy):
